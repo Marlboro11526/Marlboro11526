@@ -6,26 +6,12 @@
 
 ## 🚀 About Me
 
-🎓 I am a trained senior full stack developer and have diverse skills and experiences in many other areas of software and computer engineering like **Web development**, **Blockchain development & DApps**, **Reverse engineering** and  **Machine Learning & Deep learning**.
-I don't want to be proud of myself, but boastful the only thing is that I have been specialized in **React Applications**.
+🎓 I am a trained senior full stack developer and have diverse skills and experiences in many other areas of software and computer engineering like **Web development**, **Blockchain development**.
+I don't want to be proud of myself, but boastful the only thing is that I have been specialized in **Rust**.
 
 👨‍💻 I always strive to push my limits of whatever is possible. And very enjoy hard working and make my own creative something. Having ambitious and overwhelming  attitude to the upcoming technology and will move forward in advance.
 
-🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **guitar**, **break dancing (hip-hop)**, **sketching**, and **touch typing** to some whacky ones like **writing with my left hand**.
-
-📚 I also love reading books on **personal development** & **financial literacy**. My favorite ones are **The Compound Effect** by _Darren Hardy_ in the genre of personal development and **Rich Dad Poor Dad** by _Robert Kiyosaki_ in the genre of financial literacy.
-
 ✈️ I love **traveling** and **sports**.
-
-## 🏅 Achievements
-
--   🏆 **Top Rated** 
--   ⏫ **Rising Talent**
--   ⭐ **Global rank 750** at _Google Kickstart 2020 Round H_ (November 2020)
--   🤝 **Hacktober Fest Participant** for _adding quality pull requests at Hacktober Fest 2020_ (October 2020)
--   🥇 **Winner of Coding Competition** at _RCCIIT_ (March 2020)
--   🥈 **1st Runner up at Coding Competition** at _Heritage Institute of Technology_ (September 2019)
--   🥉 **2nd Runner up at Coding Competition** at _GCECT_ (March 2019)
 
 ## 🛠️ Skills
 
@@ -46,18 +32,12 @@ I don't want to be proud of myself, but boastful the only thing is that I have b
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-![pwa](https://img.shields.io/badge/Progressive_Web_App-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-![chakra-ui](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
-![tailwind-css](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![storybook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![graphql](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
 ![three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 
 ### Block-Chain Development
@@ -65,11 +45,6 @@ I don't want to be proud of myself, but boastful the only thing is that I have b
 ![ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![web3](https://img.shields.io/badge/Web_3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
-### Cross Platform Development
-
-![flutter](https://img.shields.io/badge/Flutter-28B6F6?style=for-the-badge&logo=flutter&logoColor=white)
-![electron](https://img.shields.io/badge/Electron-2C2E3B?style=for-the-badge&logo=electron&logoColor=white)
 
 ### Backend as a Service (BaaS)
 
@@ -119,8 +94,7 @@ Want to read more? [Check out all the blogs](https://dev.to/ruppysuppy)
 
 ## 🔗 Links
 
-[![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/sallamy2580)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/sallamy2580)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/sallamy2580)
-[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/superpolaris)
-[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](go-getter@0739)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Marlboro11526)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:KOF.Terry29@gmail.com)
+[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](Terry.Star#2496)
+[![skype](https://img.shields.io/badge/Skype-0081CB?style=for-the-badge&logo=skype&logoColor=white)](Marlboro11526)
