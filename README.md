@@ -87,9 +87,3 @@ Want to read more? [Check out all the blogs](https://dev.to/ruppysuppy)
     
 </div> -->
 
-## 🔗 Links
-
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Marlboro11526)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:KOF.Terry29@gmail.com)
-[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](http://discord.com/Terry.Star)
-[![skype](https://img.shields.io/badge/Skype-0081CB?style=for-the-badge&logo=skype&logoColor=white)](http://web.skype.com/Marlboro11526)
