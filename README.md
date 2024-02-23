@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 🎓 I am a trained senior full stack developer and have diverse skills and experiences in many other areas of software and computer engineering like **Web development**, **Blockchain development**.
-I don't want to be proud of myself, but boastful the only thing is that I have been specialized in **JavaScript**, **Golang** and **Rust**. 
+I don't want to be proud of myself, but boastful the only thing is that I have been specialized in **JavaScript**, **Java**, **Golang** and **Rust**. 
 
 👨‍💻 I always strive to push my limits of whatever is possible. And very enjoy hard working and make my own creative something. Having ambitious and overwhelming  attitude to the upcoming technology and will move forward in advance.
 
@@ -18,7 +18,7 @@ I don't want to be proud of myself, but boastful the only thing is that I have b
 ### Programming Languages
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C ++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
